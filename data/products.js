@@ -2,7 +2,7 @@ export const products = [
   {
     id: "id1",
     image: "images/products/powder.jpg",
-    name:"umbrella",
+    name:"powder",
      rating: {
       stars: 5,
       count: 24
@@ -17,7 +17,7 @@ export const products = [
   {
         id: "id2",
     image: "images/products/glaze.jpg",
-    name:"backpack",
+    name:"glaze",
      rating: {
       stars: 4.5,
       count: 87
@@ -32,7 +32,7 @@ export const products = [
   {
     id: "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
     image: "images/products/baking soda.jpg",
-    name: "Black and Gray Athletic Cotton Socks - 6 Pairs",
+    name: "baking soda",
     rating: {
       stars: 4.5,
       count: 87
@@ -47,7 +47,7 @@ export const products = [
   {
     id: "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
     image: "images/products/cream spoon.jpg",
-    name: "Black and Gray Athletic Cotton Socks - 6 Pairs",
+    name: "cream spoon",
     rating: {
       stars: 4.5,
       count: 87
