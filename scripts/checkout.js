@@ -112,7 +112,7 @@ link.addEventListener('click', ()=> {
  const container = document.querySelector(
     `.js-cart-item-container-${productId}`
  );
- console.log(container);
-});6y
+ container.remove();
+});
 });
 
